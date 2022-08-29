@@ -1,33 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <receita>
     <dog>
+        <nome>Sr. Podom</nome>
         <raca>Olha quem chegou!</raca>
-        <descricao>Quem conviveu com um cachorro da raça fila brasileiro jamais vai esquecê-lo. Bastante comum na infância de muitos brasileiros, o fila brasileiro marca seu espaço por onde passa com seu jeito calmo e senso de proteção aguçado. Muito companheira, leal e imponente, a raça até hoje atrai uma legião imensa de fãs e se tornou uma celebridade do mundo canino.</descricao>
+        <descricao>Não se engane pelo tamanho, este meliante ataca pelas costas, fazendo a vitima passar vergonha e fugir sem olhar para trás. </descricao>
         <foto>https://c.tenor.com/uhsZ5_sM7qgAAAAS/dog-pinscher.gif</foto>
         <palavra-chave>Incompreendido</palavra-chave>
 
         
     </dog>
     <dog>
-        <raca>Fila brasileiro</raca>
-        <descricao>Quem conviveu com um cachorro da raça fila brasileiro jamais vai esquecê-lo. Bastante comum na infância de muitos brasileiros, o fila brasileiro marca seu espaço por onde passa com seu jeito calmo e senso de proteção aguçado. Muito companheira, leal e imponente, a raça até hoje atrai uma legião imensa de fãs e se tornou uma celebridade do mundo canino.</descricao>
+        <nome>Fifi</nome>
+        <raca></raca>
+        <descricao>Cão girl, uma gorota de te tirar o folego. Ataca cães desavisados. Utiliza de seu cio para atrair as vitimas.</descricao>
         <foto>img/buldogue.jpg</foto>
         <palavra-chave>Amigo</palavra-chave>
     </dog>
     <dog>
+        <nome>Alerkin</nome>
+        <descricao>Varias passagens pela carrocinha. Caracteristico por seus pelos descoloridos. Com sua mordida contamina a vitima com raiva.</descricao>
         <raca>fala-que-eu-nao-to</raca>
         <foto>img/fala-que-eu-nao-to.jpg</foto>
         
     </dog>
     <dog>
-        <raca>jaguara</raca>
+        <nome>Jaguara</nome>
+        <descricao>Dono fugitivo do canil municipal. Especialidade em fulgas, e trafiante de ossos do mercado negro. Não fique devendo a ele ou...</descricao>
+        <raca>Pinscherman</raca>
         <foto>img/gudanzinho.jpg</foto>
     </dog>
     <dog>
-        <raca>caramelo-de-floripa</raca>
+        <nome> Dona Sat</nome>
+        <descricao>Esta adoravel senhora costuma ir a enterros, aguarda a ida dos familiares embora para roubar os ossos e vender no mercado negro.</descricao>
+        <raca>Caramelo</raca>
         <foto>img/pobreza-pega.jpg</foto>
     </dog>
     <dog>
+        <nome>MC Donalde</nome>
+        <descricao>Batedor de lanches, fica na saida da rede de lanchonetes mais famosa do mundo.Derruba a vitima e sai em fulga com o lanche.</descricao>
         <raca>as-mina-pira</raca>
         <foto>img/rap-star.jpg</foto>
     </dog>

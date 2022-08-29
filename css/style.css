@@ -8,18 +8,8 @@ body {
     margin: 0;
     padding: 0;
   }
-.galeria-container{
+  header{
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    align-content: start;
-    gap: 30px;
-    padding: 0 1em;
-  
-}
-header{
-    display: flex;
-    
     justify-content: center;
     padding: 20px;
     background-color: rgb(226, 198, 43);
@@ -27,16 +17,30 @@ header{
     font-weight: 700;
     margin-bottom: 1em;
 }
+.galeria-container{
+    display: flex;
+    flex-wrap: wrap;
+  
+}
+
 .card{
-display: flex;
-flex-wrap: wrap;
-width: 240px;
-gap: 30px;
+width: 200px;
+height: 450px;
+gap: 15px;
+text-align: justify;
 border: solid 1px rgb(122, 122, 122);
 box-shadow: 0 0 15px;
+margin: 15px;
 }
+
 .card img{
     width: 100%;
-    height: 100%;
+    height: 60%;
     object-fit: cover;
+}
+.card .descricao{
+    padding: 5px 10px;
+}
+.card .imagem.Caramelo{
+    object-position: 0px 1%;
 }
