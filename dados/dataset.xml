@@ -15,17 +15,20 @@
         <palavra-chave>Amigo</palavra-chave>
     </dog>
     <dog>
-        
+        <raca>fala-que-eu-nao-to</raca>
         <foto>img/fala-que-eu-nao-to.jpg</foto>
         
     </dog>
     <dog>
+        <raca>jaguara</raca>
         <foto>img/gudanzinho.jpg</foto>
     </dog>
     <dog>
+        <raca>caramelo-de-floripa</raca>
         <foto>img/pobreza-pega.jpg</foto>
     </dog>
     <dog>
+        <raca>as-mina-pira</raca>
         <foto>img/rap-star.jpg</foto>
     </dog>
 </receita>
