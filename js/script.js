@@ -16,13 +16,13 @@ $(function() {
                 let video = $(this).find('video').text();
                 let racaTratada = raca.replace(/[^\w/\s]/gi,'').replace(/\s/g, '')
 
-                console.log (racaTratada)
                if (img != ""){ $("#cards").append(`
                <div class= "card">
                     <img class="imagem ${racaTratada}"src="${img}">
                     <div class= "descricao">
                         <h1>${nome}</h1>
                         <p>${descricao}</p>
+                        <button class="esconder">Leia mais</buttom>
                     </div>
                 </div>
                 
