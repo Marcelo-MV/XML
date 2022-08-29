@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<receita>
+    <dog>
+        <raca>Olha quem chegou!</raca>
+        <descricao>Quem conviveu com um cachorro da raça fila brasileiro jamais vai esquecê-lo. Bastante comum na infância de muitos brasileiros, o fila brasileiro marca seu espaço por onde passa com seu jeito calmo e senso de proteção aguçado. Muito companheira, leal e imponente, a raça até hoje atrai uma legião imensa de fãs e se tornou uma celebridade do mundo canino.</descricao>
+        <foto>https://c.tenor.com/uhsZ5_sM7qgAAAAS/dog-pinscher.gif</foto>
+        <palavra-chave>Incompreendido</palavra-chave>
+
+        
+    </dog>
+    <dog>
+        <raca>Fila brasileiro</raca>
+        <descricao>Quem conviveu com um cachorro da raça fila brasileiro jamais vai esquecê-lo. Bastante comum na infância de muitos brasileiros, o fila brasileiro marca seu espaço por onde passa com seu jeito calmo e senso de proteção aguçado. Muito companheira, leal e imponente, a raça até hoje atrai uma legião imensa de fãs e se tornou uma celebridade do mundo canino.</descricao>
+        <foto>img/buldogue.jpg</foto>
+        <palavra-chave>Amigo</palavra-chave>
+    </dog>
+    <dog>
+        
+        <foto>img/fala-que-eu-nao-to.jpg</foto>
+        
+    </dog>
+    <dog>
+        <foto>img/gudanzinho.jpg</foto>
+    </dog>
+    <dog>
+        <foto>img/pobreza-pega.jpg</foto>
+    </dog>
+    <dog>
+        <foto>img/rap-star.jpg</foto>
+    </dog>
+</receita>

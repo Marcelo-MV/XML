@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(142, 200, 252);
+    margin: 0;
+    padding: 0;
+  }
+.galeria-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: start;
+    gap: 30px;
+    padding: 0 1em;
+  
+}
+header{
+    display: flex;
+    
+    justify-content: center;
+    padding: 20px;
+    background-color: rgb(226, 198, 43);
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1em;
+}
+.card{
+display: flex;
+flex-wrap: wrap;
+width: 240px;
+gap: 30px;
+border: solid 1px rgb(122, 122, 122);
+box-shadow: 0 0 15px;
+}
+.card img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
